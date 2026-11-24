@@ -10,6 +10,13 @@ spreadsheet opens, as if the numbers personally offended it. It names
 a gadget everyone uses daily, lands on first read, carries a concrete
 detail (the fan spinning up on a spreadsheet, not on heavy work), and
 is tight at 114 characters.
+Against the judge's brief, in order: it clearly targets a daily
+gadget, the laptop (criterion 1); the sting lands on first read, the
+fan treating a spreadsheet like a personal insult (criterion 2); the
+angle is fresh, not the obvious "battery dies fast" complaint
+(criterion 3); it is tight and well timed at 114 characters
+(criterion 4); and the detail is one person's specific gripe about
+how the thing actually behaves (criterion 5).
 """
 
 import os
